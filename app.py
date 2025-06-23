@@ -8,7 +8,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 DATA_FILE = 'rockland_incidents.csv'
-FIREWATCH_URL = 'https://rocklandfire.com/firewatch'  # placeholder URL
+FIREWATCH_URL = 'https://firewatch.44-control.net/history.html'  # placeholder URL
 
 def fetch_firewatch():
     """Fetch incidents from Rockland FireWatch feed."""
