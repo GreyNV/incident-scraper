@@ -54,7 +54,7 @@ def index():
     csv_exists = os.path.exists(DATA_FILE)
     return render_template('index.html', csv_exists=csv_exists)
 
-@app.route('/fetch')
+@app.route('/fetch', methods=['GET', 'POST'])
 def fetch_route():
     incidents = fetch_firewatch()
     if incidents:
