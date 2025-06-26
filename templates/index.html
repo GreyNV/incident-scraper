@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Incident Collector</title>
+</head>
+<body>
+    <h1>Rockland FireWatch Incidents</h1>
+    <form action="{{ url_for('fetch_route') }}" method="post">
+        <button type="submit">Fetch Incidents Now</button>
+    </form>
+    {% if csv_exists %}
+    <p><a href="{{ url_for('download_csv') }}">Download CSV</a></p>
+    {% else %}
+    <p>No data available yet.</p>
+    {% endif %}
+</body>
+</html>
