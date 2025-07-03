@@ -18,7 +18,8 @@ def to_est(timestr: str) -> str:
         dt = parser.parse(timestr)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=EST)
-        return dt.astimezone(EST).strftime('%Y-%m-%d %H:%M:%S %Z')
+        # Display times in 12 hour format with AM/PM for easier reading
+        return dt.astimezone(EST).strftime('%Y-%m-%d %I:%M:%S %p %Z')
     except Exception as exc:
         print(f"Error parsing '{timestr}': {exc}")
         return timestr
