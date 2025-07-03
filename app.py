@@ -3,11 +3,25 @@ import os
 import pandas as pd
 import requests
 from datetime import datetime
+from dateutil import parser
+from zoneinfo import ZoneInfo
 
 app = Flask(__name__)
 
 DATA_FILE = 'rockland_incidents.csv'
 FIREWATCH_URL = 'https://firewatch.44-control.net/status.json'
+EST = ZoneInfo('America/New_York')
+
+def to_est(timestr: str) -> str:
+    """Convert a time string to Eastern time and format consistently."""
+    try:
+        dt = parser.parse(timestr)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=EST)
+        return dt.astimezone(EST).strftime('%Y-%m-%d %H:%M:%S %Z')
+    except Exception as exc:
+        print(f"Error parsing '{timestr}': {exc}")
+        return timestr
 
 def fetch_firewatch():
     """Fetch incidents from Rockland FireWatch feed."""
@@ -41,7 +55,7 @@ def fetch_firewatch():
         address = " ".join(part for part in [addr1, addr2] if part)
         if time_reported and address:
             incidents.append({
-                'time_reported': time_reported,
+                'time_reported': to_est(time_reported),
                 'address': address,
             })
 
