@@ -8,8 +8,30 @@
     <form action="{{ url_for('fetch_route') }}" method="post">
         <button type="submit">Fetch Incidents Now</button>
     </form>
+
     {% if csv_exists %}
-    <p><a href="{{ url_for('download_csv') }}">Download CSV</a></p>
+    <form action="{{ url_for('download_csv') }}" method="get" style="margin-top:10px;">
+        <button type="submit">Export CSV</button>
+    </form>
+
+    {% if incidents %}
+    <table border="1" cellpadding="5" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Time Reported</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in incidents %}
+            <tr>
+                <td>{{ row.time_reported }}</td>
+                <td>{{ row.address }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
     {% else %}
     <p>No data available yet.</p>
     {% endif %}
