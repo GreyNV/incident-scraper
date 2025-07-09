@@ -8,6 +8,10 @@ from zoneinfo import ZoneInfo
 
 EST = ZoneInfo("US/Eastern")
 
+# Mapping for common Eastern time abbreviations. This avoids warnings from
+# pandas/dateutil when parsing strings like "EDT" or "EST".
+TZINFOS = {"EDT": EST, "EST": EST}
+
 app = Flask(__name__)
 
 DATA_FILE = 'rockland_incidents.csv'
@@ -16,14 +20,27 @@ FIREWATCH_URL = 'https://firewatch.44-control.net/status.json'
 def to_est(timestr: str) -> str:
     """Convert a time string to Eastern time and format consistently."""
     try:
-        dt = parser.parse(timestr)
+        dt = parser.parse(timestr, tzinfos=TZINFOS)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=EST)
-        # Display times in 12 hour format with AM/PM for easier reading
-        return dt.astimezone(EST).strftime('%Y-%m-%d %I:%M:%S %p %Z')
+        # Display times in 12 hour format with AM/PM for easier reading.
+        # Always label the timezone as EST to keep the strings consistent.
+        return dt.astimezone(EST).strftime('%Y-%m-%d %I:%M:%S %p EST')
     except Exception as exc:
         print(f"Error parsing '{timestr}': {exc}")
         return timestr
+
+
+def parse_time_est(timestr: str) -> datetime:
+    """Parse a time string that may contain EDT/EST and return an aware datetime."""
+    try:
+        dt = parser.parse(timestr, tzinfos=TZINFOS)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=EST)
+        return dt.astimezone(EST)
+    except Exception as exc:
+        print(f"Error parsing time '{timestr}': {exc}")
+        return datetime.min.replace(tzinfo=EST)
 
 
 def fetch_firewatch():
@@ -85,7 +102,7 @@ def deduplicate_and_save(new_incidents):
     df_all.drop_duplicates(subset=['time_reported', 'address', 'incident_type'], inplace=True)
 
     # Sort by time reported so the newest incidents are first
-    df_all['sort_time'] = pd.to_datetime(df_all['time_reported'], errors='coerce')
+    df_all['sort_time'] = df_all['time_reported'].apply(parse_time_est)
     df_all.sort_values('sort_time', ascending=False, inplace=True)
     df_all.drop(columns=['sort_time'], inplace=True)
 
@@ -105,7 +122,7 @@ def index():
                 if col not in df.columns:
                     df[col] = ''
 
-            df['sort_time'] = pd.to_datetime(df['time_reported'], errors='coerce')
+            df['sort_time'] = df['time_reported'].apply(parse_time_est)
             df.sort_values('sort_time', ascending=False, inplace=True)
             df.drop(columns=['sort_time'], inplace=True)
 
