@@ -28,3 +28,8 @@ The CSV tracks these fields:
 - `name`
 - `phone`
 - `email`
+
+Times shown in the web interface are converted to the US/Eastern timezone
+and displayed in a 12‑hour format with AM/PM for consistency with
+Rockland County's local time.
+

@@ -3,11 +3,26 @@ import os
 import pandas as pd
 import requests
 from datetime import datetime
+from dateutil import parser
+from zoneinfo import ZoneInfo
 
 app = Flask(__name__)
 
 DATA_FILE = 'rockland_incidents.csv'
 FIREWATCH_URL = 'https://firewatch.44-control.net/status.json'
+
+def to_est(timestr: str) -> str:
+    """Convert a time string to Eastern time and format consistently."""
+    try:
+        dt = parser.parse(timestr)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=EST)
+        # Display times in 12 hour format with AM/PM for easier reading
+        return dt.astimezone(EST).strftime('%Y-%m-%d %I:%M:%S %p %Z')
+    except Exception as exc:
+        print(f"Error parsing '{timestr}': {exc}")
+        return timestr
+
 
 def fetch_firewatch():
     """Fetch incidents from Rockland FireWatch feed."""
@@ -42,14 +57,14 @@ def fetch_firewatch():
         incident_type = item.get('Incident Type', '')
         if time_reported and address:
             incidents.append({
-                'time_reported': time_reported,
+                'time_reported': to_est(time_reported),
                 'address': address,
                 'incident_type': incident_type,
                 'name': '',
                 'phone': '',
                 'email': ''
-            })
 
+            })
     return incidents
 
 def deduplicate_and_save(new_incidents):
@@ -78,6 +93,7 @@ def index():
             for col in ['time_reported', 'address', 'incident_type', 'name', 'phone', 'email']:
                 if col not in df.columns:
                     df[col] = ''
+
             incidents = df.to_dict('records')
         except Exception as exc:
             print(f"Error reading {DATA_FILE}: {exc}")
