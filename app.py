@@ -147,4 +147,9 @@ def download_csv():
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Render sets the PORT environment variable to tell the application which
+    # port to listen on. Default to 5000 for local development.
+    port = int(os.environ.get("PORT", 5000))
+    debug = os.environ.get("DEBUG", "false").lower() == "true"
+    # Listen on all interfaces so Render can route traffic to the container.
+    app.run(host="0.0.0.0", port=port, debug=debug)

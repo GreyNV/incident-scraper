@@ -14,7 +14,11 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Then open `http://localhost:5000` in your browser.
+By default the app listens on port 5000. Deployment platforms like Render set a
+`PORT` environment variable which the application will honor, so no code changes
+are required to run in those environments.
+
+Then open `http://localhost:5000` in your browser when running locally.
 
 The index page now uses Bootstrap styling and paginates results 10 per page so large incident lists remain easy to navigate. New incidents appear first after each fetch.
 
