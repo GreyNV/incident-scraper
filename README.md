@@ -16,6 +16,8 @@ python app.py
 
 Then open `http://localhost:5000` in your browser.
 
+The index page now uses Bootstrap styling and paginates results 10 per page so large incident lists remain easy to navigate. New incidents appear first after each fetch.
+
 `app.py` now fetches incidents from the JSON feed used by Rockland
 FireWatch. If the endpoint changes, update the `FIREWATCH_URL` constant
 in the script accordingly.

@@ -1,10 +1,12 @@
-from flask import Flask, render_template, redirect, url_for, send_file
+from flask import Flask, render_template, redirect, url_for, send_file, request
 import os
 import pandas as pd
 import requests
 from datetime import datetime
 from dateutil import parser
 from zoneinfo import ZoneInfo
+
+EST = ZoneInfo("US/Eastern")
 
 app = Flask(__name__)
 
@@ -81,12 +83,21 @@ def deduplicate_and_save(new_incidents):
     df_new = pd.DataFrame(new_incidents)
     df_all = pd.concat([df_old, df_new], ignore_index=True)
     df_all.drop_duplicates(subset=['time_reported', 'address', 'incident_type'], inplace=True)
+
+    # Sort by time reported so the newest incidents are first
+    df_all['sort_time'] = pd.to_datetime(df_all['time_reported'], errors='coerce')
+    df_all.sort_values('sort_time', ascending=False, inplace=True)
+    df_all.drop(columns=['sort_time'], inplace=True)
+
     df_all.to_csv(DATA_FILE, index=False)
 
 @app.route('/')
 def index():
     csv_exists = os.path.exists(DATA_FILE)
     incidents = []
+    page = int(request.args.get("page", 1))
+    per_page = 10
+    total_pages = 1
     if csv_exists:
         try:
             df = pd.read_csv(DATA_FILE)
@@ -94,10 +105,16 @@ def index():
                 if col not in df.columns:
                     df[col] = ''
 
-            incidents = df.to_dict('records')
+            df['sort_time'] = pd.to_datetime(df['time_reported'], errors='coerce')
+            df.sort_values('sort_time', ascending=False, inplace=True)
+            df.drop(columns=['sort_time'], inplace=True)
+
+            total_pages = max(1, (len(df) + per_page - 1) // per_page)
+            start = (page - 1) * per_page
+            incidents = df.iloc[start:start + per_page].to_dict('records')
         except Exception as exc:
             print(f"Error reading {DATA_FILE}: {exc}")
-    return render_template('index.html', csv_exists=csv_exists, incidents=incidents)
+    return render_template('index.html', csv_exists=csv_exists, incidents=incidents, page=page, total_pages=total_pages)
 
 @app.route('/fetch', methods=['GET', 'POST'])
 def fetch_route():
