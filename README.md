@@ -16,5 +16,15 @@ python app.py
 
 Then open `http://localhost:5000` in your browser.
 
-The feed URL used in `app.py` is a placeholder. Update `FIREWATCH_URL`
-with the correct Rockland FireWatch link before running in production.
+`app.py` now fetches incidents from the JSON feed used by Rockland
+FireWatch. If the endpoint changes, update the `FIREWATCH_URL` constant
+in the script accordingly.
+
+The CSV tracks these fields:
+
+- `time_reported`
+- `address`
+- `incident_type`
+- `name`
+- `phone`
+- `email`

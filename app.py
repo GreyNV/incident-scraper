@@ -2,57 +2,86 @@ from flask import Flask, render_template, redirect, url_for, send_file
 import os
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup
 from datetime import datetime
 
 app = Flask(__name__)
 
 DATA_FILE = 'rockland_incidents.csv'
-FIREWATCH_URL = 'https://firewatch.44-control.net/history.html'  # placeholder URL
+FIREWATCH_URL = 'https://firewatch.44-control.net/status.json'
 
 def fetch_firewatch():
     """Fetch incidents from Rockland FireWatch feed."""
     try:
         resp = requests.get(FIREWATCH_URL, timeout=10)
         resp.raise_for_status()
+        data = resp.json()
     except Exception as exc:
         print(f"Error fetching FireWatch feed: {exc}")
         return []
 
-    soup = BeautifulSoup(resp.text, 'html.parser')
-    table = soup.find('table')
-    if not table:
-        return []
+    # The JSON schema contains a `Fire` key with the incident list.
+    records = []
+    if isinstance(data, dict):
+        records = data.get('Fire') or data.get('fire') or []
+    elif isinstance(data, list):
+        records = data
 
     incidents = []
-    for row in table.find_all('tr')[1:]:  # skip header
-        cols = [c.get_text(strip=True) for c in row.find_all('td')]
-        if len(cols) < 4:
-            continue
-        timestamp, incident_type, location, units = cols[:4]
-        incidents.append({
-            'timestamp': timestamp or datetime.utcnow().isoformat(),
-            'incident_type': incident_type,
-            'location': location,
-            'units': units,
-        })
+    for item in records:
+        # Prefer the reported time for display
+        time_reported = (
+            item.get('Time Reported')
+            or item.get('Time Opened')
+            or item.get('Time Closed')
+            or datetime.utcnow().isoformat()
+        )
+        # Combine address fields if provided
+        addr1 = item.get('Address')
+        addr2 = item.get('Address2')
+        address = " ".join(part for part in [addr1, addr2] if part)
+        incident_type = item.get('Incident Type', '')
+        if time_reported and address:
+            incidents.append({
+                'time_reported': time_reported,
+                'address': address,
+                'incident_type': incident_type,
+                'name': '',
+                'phone': '',
+                'email': ''
+            })
+
     return incidents
 
 def deduplicate_and_save(new_incidents):
+    """Merge new incidents into the CSV, avoiding duplicates."""
+    columns = ['time_reported', 'address', 'incident_type', 'name', 'phone', 'email']
     if os.path.exists(DATA_FILE):
         df_old = pd.read_csv(DATA_FILE)
+        for col in columns:
+            if col not in df_old.columns:
+                df_old[col] = ''
     else:
-        df_old = pd.DataFrame(columns=['timestamp', 'incident_type', 'location', 'units'])
+        df_old = pd.DataFrame(columns=columns)
 
     df_new = pd.DataFrame(new_incidents)
     df_all = pd.concat([df_old, df_new], ignore_index=True)
-    df_all.drop_duplicates(subset=['timestamp', 'incident_type', 'location'], inplace=True)
+    df_all.drop_duplicates(subset=['time_reported', 'address', 'incident_type'], inplace=True)
     df_all.to_csv(DATA_FILE, index=False)
 
 @app.route('/')
 def index():
     csv_exists = os.path.exists(DATA_FILE)
-    return render_template('index.html', csv_exists=csv_exists)
+    incidents = []
+    if csv_exists:
+        try:
+            df = pd.read_csv(DATA_FILE)
+            for col in ['time_reported', 'address', 'incident_type', 'name', 'phone', 'email']:
+                if col not in df.columns:
+                    df[col] = ''
+            incidents = df.to_dict('records')
+        except Exception as exc:
+            print(f"Error reading {DATA_FILE}: {exc}")
+    return render_template('index.html', csv_exists=csv_exists, incidents=incidents)
 
 @app.route('/fetch', methods=['GET', 'POST'])
 def fetch_route():
