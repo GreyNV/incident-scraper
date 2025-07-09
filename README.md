@@ -20,6 +20,16 @@ Then open `http://localhost:5000` in your browser.
 FireWatch. If the endpoint changes, update the `FIREWATCH_URL` constant
 in the script accordingly.
 
+The CSV tracks these fields:
+
+- `time_reported`
+- `address`
+- `incident_type`
+- `name`
+- `phone`
+- `email`
+
 Times shown in the web interface are converted to the US/Eastern timezone
 and displayed in a 12‑hour format with AM/PM for consistency with
 Rockland County's local time.
+

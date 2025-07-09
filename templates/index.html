@@ -20,6 +20,10 @@
             <tr>
                 <th>Time Reported</th>
                 <th>Address</th>
+                <th>Incident Type</th>
+                <th>Name</th>
+                <th>Phone</th>
+                <th>Email</th>
             </tr>
         </thead>
         <tbody>
@@ -27,6 +31,10 @@
             <tr>
                 <td>{{ row.time_reported }}</td>
                 <td>{{ row.address }}</td>
+                <td>{{ row.incident_type }}</td>
+                <td>{{ row.name }}</td>
+                <td>{{ row.phone }}</td>
+                <td>{{ row.email }}</td>
             </tr>
             {% endfor %}
         </tbody>
