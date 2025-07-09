@@ -5,6 +5,7 @@ import requests
 from datetime import datetime
 from dateutil import parser
 from zoneinfo import ZoneInfo
+import logging
 
 EST = ZoneInfo("US/Eastern")
 
@@ -17,6 +18,14 @@ app = Flask(__name__)
 DATA_FILE = 'rockland_incidents.csv'
 FIREWATCH_URL = 'https://firewatch.44-control.net/status.json'
 
+# Configure basic logging so information is printed to the console. This helps
+# debug deployments where standard output is captured by the hosting platform.
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+)
+logger = logging.getLogger(__name__)
+
 def to_est(timestr: str) -> str:
     """Convert a time string to Eastern time and format consistently."""
     try:
@@ -27,7 +36,7 @@ def to_est(timestr: str) -> str:
         # Always label the timezone as EST to keep the strings consistent.
         return dt.astimezone(EST).strftime('%Y-%m-%d %I:%M:%S %p EST')
     except Exception as exc:
-        print(f"Error parsing '{timestr}': {exc}")
+        logger.error("Error parsing '%s': %s", timestr, exc)
         return timestr
 
 
@@ -39,18 +48,20 @@ def parse_time_est(timestr: str) -> datetime:
             dt = dt.replace(tzinfo=EST)
         return dt.astimezone(EST)
     except Exception as exc:
-        print(f"Error parsing time '{timestr}': {exc}")
+        logger.error("Error parsing time '%s': %s", timestr, exc)
         return datetime.min.replace(tzinfo=EST)
 
 
 def fetch_firewatch():
     """Fetch incidents from Rockland FireWatch feed."""
+    logger.info("Fetching incidents from %s", FIREWATCH_URL)
     try:
         resp = requests.get(FIREWATCH_URL, timeout=10)
         resp.raise_for_status()
         data = resp.json()
+        logger.info("Received %d bytes", len(resp.content))
     except Exception as exc:
-        print(f"Error fetching FireWatch feed: {exc}")
+        logger.error("Error fetching FireWatch feed: %s", exc)
         return []
 
     # The JSON schema contains a `Fire` key with the incident list.
@@ -84,6 +95,8 @@ def fetch_firewatch():
                 'email': ''
 
             })
+
+    logger.info("Parsed %d incidents from feed", len(incidents))
     return incidents
 
 def deduplicate_and_save(new_incidents):
@@ -107,6 +120,7 @@ def deduplicate_and_save(new_incidents):
     df_all.drop(columns=['sort_time'], inplace=True)
 
     df_all.to_csv(DATA_FILE, index=False)
+    logger.info("Saved %d total incidents to %s", len(df_all), DATA_FILE)
 
 @app.route('/')
 def index():
@@ -115,6 +129,7 @@ def index():
     page = int(request.args.get("page", 1))
     per_page = 10
     total_pages = 1
+    logger.info("Rendering index page (page %d)", page)
     if csv_exists:
         try:
             df = pd.read_csv(DATA_FILE)
@@ -130,20 +145,27 @@ def index():
             start = (page - 1) * per_page
             incidents = df.iloc[start:start + per_page].to_dict('records')
         except Exception as exc:
-            print(f"Error reading {DATA_FILE}: {exc}")
+            logger.error("Error reading %s: %s", DATA_FILE, exc)
     return render_template('index.html', csv_exists=csv_exists, incidents=incidents, page=page, total_pages=total_pages)
 
 @app.route('/fetch', methods=['GET', 'POST'])
 def fetch_route():
+    logger.info("/fetch endpoint called")
     incidents = fetch_firewatch()
     if incidents:
+        logger.info("Fetched %d incidents", len(incidents))
         deduplicate_and_save(incidents)
+    else:
+        logger.info("No incidents returned from feed")
     return redirect(url_for('index'))
 
 @app.route('/download')
 def download_csv():
+    logger.info("/download endpoint called")
     if os.path.exists(DATA_FILE):
+        logger.info("Sending CSV file %s", DATA_FILE)
         return send_file(DATA_FILE, as_attachment=True)
+    logger.info("CSV file not found")
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
@@ -151,5 +173,6 @@ if __name__ == '__main__':
     # port to listen on. Default to 5000 for local development.
     port = int(os.environ.get("PORT", 5000))
     debug = os.environ.get("DEBUG", "false").lower() == "true"
+    logger.info("Starting server on port %d (debug=%s)", port, debug)
     # Listen on all interfaces so Render can route traffic to the container.
     app.run(host="0.0.0.0", port=port, debug=debug)
