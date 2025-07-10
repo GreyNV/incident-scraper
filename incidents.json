@@ -1,0 +1,474 @@
+[
+  {
+    "time_reported":"2025-07-10 02:55:51 PM EST",
+    "address":"1000 MURRAY CT PEARL RIVER, NY 10965",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 02:34:44 PM EST",
+    "address":"14 BROWARD DR NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 02:25:26 PM EST",
+    "address":"10 W RAMAPO RD GARNERVILLE, NY 10923",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 02:11:07 PM EST",
+    "address":"1 STRAWTOWN RD WEST NYACK, NY 10994",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 01:56:03 PM EST",
+    "address":"28 ROUTE 59 NYACK, NY 10960",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 12:50:42 PM EST",
+    "address":"265 ROUTE 306 VIOLA, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 11:29:22 AM EST",
+    "address":"692 N MAIN ST HILLCREST, NY 10977",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 11:22:54 AM EST",
+    "address":"9 JOHNSONS LN NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 10:48:53 AM EST",
+    "address":"2 COBBLESTONE FARM CT MONTEBELLO, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 10:05:54 AM EST",
+    "address":"331 ROUTE 17 HILLBURN, NY 10931",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 09:43:51 AM EST",
+    "address":"PIP 22-8 SB NEW CITY, NY 10956",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 08:39:55 AM EST",
+    "address":"12 DIKE DR WESLEY HILLS, NY 10952",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 08:13:24 AM EST",
+    "address":"99 OLD PASCACK RD PEARL RIVER, NY 10965",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 08:05:55 AM EST",
+    "address":"102 DERFUSS LN BLAUVELT, NY 10913",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 07:48:40 AM EST",
+    "address":"465 VIOLA RD VIOLA, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 07:33:03 AM EST",
+    "address":"173 W WASHINGTON AV PEARL RIVER, NY 10965",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 07:24:59 AM EST",
+    "address":"6 BIRET DR AIRMONT, NY 10952",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 06:07:52 AM EST",
+    "address":"26 SHORN DR BLAUVELT, NY 10913",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 12:31:55 AM EST",
+    "address":"PALISADES CENTER MALL - LOT C WEST NYACK, NY 10994",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-10 12:28:06 AM EST",
+    "address":"SPRING VALLEY MEMORIAL PARK SPRING VALLEY, NY 10977",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 09:17:18 PM EST",
+    "address":"15 OLD LAKE RD CONGERS, NY 10920",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 08:33:44 PM EST",
+    "address":"6 FENWAY CT NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 08:10:49 PM EST",
+    "address":"5 BRIDGE ST SUFFERN, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 07:54:09 PM EST",
+    "address":"15 OLD LAKE RD CONGERS, NY 10920",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 07:41:13 PM EST",
+    "address":"179 W MAPLE AV VIOLA, NY 10952",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 06:45:33 PM EST",
+    "address":"1 SOUTHERLY PL NEW CITY, NY 10956",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 06:31:55 PM EST",
+    "address":"495 WESTERN HWY BLAUVELT, NY 10913",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 06:23:31 PM EST",
+    "address":"219 N MIDDLETOWN RD UNIT A PEARL RIVER, NY 10965",
+    "incident_type":"Appliance Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 04:43:02 PM EST",
+    "address":"95 S BROADWAY NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 02:47:04 PM EST",
+    "address":"100 BIRCH LN NEW CITY, NY 10956",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 01:24:03 PM EST",
+    "address":"35 DANA RD SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 12:39:11 PM EST",
+    "address":"330 ROUTE 304 BARDONIA, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 11:47:10 AM EST",
+    "address":"9 HERDMAN ST WEST HAVERSTRAW, NY 10993",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 11:11:55 AM EST",
+    "address":"34 N MYRTLE AV SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 11:05:43 AM EST",
+    "address":"400 VIOLA RD NEW HEMPSTEAD, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 11:05:00 AM EST",
+    "address":"TWAY 27-3 SB TALLMAN, NY 10982",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 10:51:57 AM EST",
+    "address":"90 MAIN ST NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 10:08:51 AM EST",
+    "address":"255 E ROUTE 59 NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 09:44:18 AM EST",
+    "address":"155 MAIN ST NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 09:00:23 AM EST",
+    "address":"365 W ROUTE 59 NANUET, NY 10954",
+    "incident_type":"Hazmat-FD",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 08:00:17 AM EST",
+    "address":"8 WESTSIDE AV MONSEY, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 07:50:51 AM EST",
+    "address":"331 ROUTE 17 HILLBURN, NY 10931",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 05:03:06 AM EST",
+    "address":"4 PARKER BLVD VIOLA, NY 10952",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 04:40:09 AM EST",
+    "address":"2 GLORIA DR NEW HEMPSTEAD, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 02:33:11 AM EST",
+    "address":"116 COLLEGE RD VIOLA, NY 10952",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-09 12:22:59 AM EST",
+    "address":"24 N MADISON AV SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 08:59:29 PM EST",
+    "address":"12 BUCKMAN PL SPRING VALLEY, NY 10952",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 08:31:13 PM EST",
+    "address":"558 AVALON GARDENS DR NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 07:16:26 PM EST",
+    "address":"1000 PALISADES CENTER DR WEST NYACK, NY 10994",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 07:00:09 PM EST",
+    "address":"2 MILLS RD MONTEBELLO, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 06:50:44 PM EST",
+    "address":"25 WALLACE DR CHESTNUT RIDGE, NY 10977",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 06:38:42 PM EST",
+    "address":"1000 PALISADES CENTER DR WEST NYACK, NY 10994",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 06:04:37 PM EST",
+    "address":"107 DOXBURY LN SUFFERN, NY 10901",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 05:37:26 PM EST",
+    "address":"54 WESTERN HWY TAPPAN, NY 10983",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 05:07:21 PM EST",
+    "address":"9 WENDOVER LN NEW CITY, NY 10956",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 04:43:08 PM EST",
+    "address":"6 LOIS LN WESLEY HILLS, NY 10952",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 04:33:55 PM EST",
+    "address":"7 GURNEE DR STONY POINT, NY 10980",
+    "incident_type":"Smoke\/Odor In",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 04:30:51 PM EST",
+    "address":"122 INDEPENDENCE AV TAPPAN, NY 10983",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-08 02:22:00 PM EST",
+    "address":"116 PIERMONT AV SOUTH NYACK, NY 10960",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  }
+]
