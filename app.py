@@ -16,6 +16,7 @@ TZINFOS = {"EDT": EST, "EST": EST}
 app = Flask(__name__)
 
 DATA_FILE = 'rockland_incidents.csv'
+JSON_FILE = 'incidents.json'
 FIREWATCH_URL = 'https://firewatch.44-control.net/status.json'
 
 # Configure basic logging so information is printed to the console. This helps
@@ -122,9 +123,21 @@ def deduplicate_and_save(new_incidents):
     df_all.to_csv(DATA_FILE, index=False)
     logger.info("Saved %d total incidents to %s", len(df_all), DATA_FILE)
 
+def csv_to_json():
+    """Convert the CSV data file to a JSON file."""
+    if not os.path.exists(DATA_FILE):
+        logger.warning("CSV file %s does not exist", DATA_FILE)
+        return
+    try:
+        df = pd.read_csv(DATA_FILE)
+        df.to_json(JSON_FILE, orient="records", indent=2)
+        logger.info("Wrote %d records to %s", len(df), JSON_FILE)
+    except Exception as exc:
+        logger.error("Error converting CSV to JSON: %s", exc)
+
 @app.route('/')
 def index():
-    csv_exists = os.path.exists(DATA_FILE)
+    csv_exists = os.path.exists(JSON_FILE)
     incidents = []
     page = int(request.args.get("page", 1))
     per_page = 10
@@ -132,7 +145,7 @@ def index():
     logger.info("Rendering index page (page %d)", page)
     if csv_exists:
         try:
-            df = pd.read_csv(DATA_FILE)
+            df = pd.read_json(JSON_FILE)
             for col in ['time_reported', 'address', 'incident_type', 'name', 'phone', 'email']:
                 if col not in df.columns:
                     df[col] = ''
@@ -145,7 +158,7 @@ def index():
             start = (page - 1) * per_page
             incidents = df.iloc[start:start + per_page].to_dict('records')
         except Exception as exc:
-            logger.error("Error reading %s: %s", DATA_FILE, exc)
+            logger.error("Error reading %s: %s", JSON_FILE, exc)
     return render_template('index.html', csv_exists=csv_exists, incidents=incidents, page=page, total_pages=total_pages)
 
 @app.route('/fetch', methods=['GET', 'POST'])
@@ -155,6 +168,7 @@ def fetch_route():
     if incidents:
         logger.info("Fetched %d incidents", len(incidents))
         deduplicate_and_save(incidents)
+        csv_to_json()
     else:
         logger.info("No incidents returned from feed")
     return redirect(url_for('index'))

@@ -14,6 +14,21 @@ pip install -r requirements.txt
 python app.py
 ```
 
+### Updating data
+
+Run `fetch_incidents.py` to pull the latest incidents and update the CSV/JSON
+files:
+
+```bash
+python fetch_incidents.py
+```
+
+You can also convert an existing CSV to JSON directly:
+
+```bash
+python csv_to_json.py
+```
+
 By default the app listens on port 5000. Deployment platforms like Render set a
 `PORT` environment variable which the application will honor, so no code changes
 are required to run in those environments.
