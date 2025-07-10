@@ -1,6 +1,6 @@
 $ErrorActionPreference = 'Stop'
 # Change to repository root
-$RepoRoot = Resolve-Path "$PSScriptRoot\.."
+$RepoRoot = Resolve-Path "C:\Users\AndriiRybak\incident-scraper\"
 Set-Location $RepoRoot
 
 # Stage updated incident file
