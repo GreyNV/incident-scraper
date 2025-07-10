@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for, send_file
+from flask import Flask, render_template, redirect, url_for, send_file, request, session
 import os
 import pandas as pd
 import requests
@@ -14,6 +14,8 @@ EST = ZoneInfo("US/Eastern")
 TZINFOS = {"EDT": EST, "EST": EST}
 
 app = Flask(__name__)
+app.secret_key = os.environ.get("SECRET_KEY", "change-me")
+PASSWORD = os.environ.get("PASSWORD", "")
 
 DATA_FILE = 'rockland_incidents.csv'
 JSON_FILE = 'incidents.json'
@@ -137,6 +139,8 @@ def csv_to_json():
 
 @app.route('/')
 def index():
+    if PASSWORD and not session.get('logged_in'):
+        return redirect(url_for('login'))
     csv_exists = os.path.exists(JSON_FILE)
     incidents = []
     logger.info("Rendering index page")
@@ -156,8 +160,34 @@ def index():
     return render_template('index.html', csv_exists=csv_exists, incidents=incidents)
 
 
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    """Simple password-based login."""
+    if not PASSWORD:
+        session['logged_in'] = True
+        return redirect(url_for('index'))
+
+    error = None
+    if request.method == 'POST':
+        pw = request.form.get('password', '')
+        if pw == PASSWORD:
+            session['logged_in'] = True
+            return redirect(url_for('index'))
+        error = 'Invalid password'
+    return render_template('login.html', error=error)
+
+
+@app.route('/logout')
+def logout():
+    """Clear the login session."""
+    session.pop('logged_in', None)
+    return redirect(url_for('login'))
+
+
 @app.route('/download')
 def download_csv():
+    if PASSWORD and not session.get('logged_in'):
+        return redirect(url_for('login'))
     logger.info("/download endpoint called")
     if os.path.exists(DATA_FILE):
         logger.info("Sending CSV file %s", DATA_FILE)

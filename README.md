@@ -16,6 +16,11 @@ pip install -r requirements.txt
 python app.py
 ```
 
+### Authentication
+
+Set the `PASSWORD` environment variable to enable login protection. When set,
+the web interface will prompt for this password before allowing access.
+
 ### Updating data
 
 Run `fetch_incidents.py` to pull the latest incidents and update the CSV/JSON
