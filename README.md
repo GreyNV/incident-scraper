@@ -54,3 +54,17 @@ Times shown in the web interface are converted to the US/Eastern timezone
 and displayed in a 12‑hour format with AM/PM for consistency with
 Rockland County's local time.
 
+
+## Automated updates
+
+Two PowerShell scripts in the `scripts` folder help automate fetching new incidents and pushing the updated JSON to your repository.
+
+```powershell
+# run the fetcher
+./scripts/fetch_incidents.ps1
+
+# commit and push updated incidents.json
+./scripts/push_updates.ps1
+```
+
+Both scripts change to the repository root based on the script location, so they work from any path. You can use Windows Task Scheduler to run them on a schedule.
