@@ -144,6 +144,20 @@ def index():
     csv_exists = os.path.exists(JSON_FILE)
     incidents = []
     logger.info("Rendering index page")
+    start_date_str = request.args.get('start_date', '')
+    end_date_str = request.args.get('end_date', '')
+    start_date = None
+    end_date = None
+    if start_date_str:
+        try:
+            start_date = parser.parse(start_date_str).date()
+        except Exception as exc:
+            logger.error("Invalid start_date '%s': %s", start_date_str, exc)
+    if end_date_str:
+        try:
+            end_date = parser.parse(end_date_str).date()
+        except Exception as exc:
+            logger.error("Invalid end_date '%s': %s", end_date_str, exc)
     if csv_exists:
         try:
             df = pd.read_json(JSON_FILE)
@@ -152,12 +166,17 @@ def index():
                     df[col] = ''
 
             df['sort_time'] = df['time_reported'].apply(parse_time_est)
+            if start_date is not None:
+                df = df[df['sort_time'].dt.date >= start_date]
+            if end_date is not None:
+                df = df[df['sort_time'].dt.date <= end_date]
             df.sort_values('sort_time', ascending=False, inplace=True)
             df.drop(columns=['sort_time'], inplace=True)
             incidents = df.to_dict('records')
         except Exception as exc:
             logger.error("Error reading %s: %s", JSON_FILE, exc)
-    return render_template('index.html', csv_exists=csv_exists, incidents=incidents)
+    return render_template('index.html', csv_exists=csv_exists, incidents=incidents,
+                          start_date=start_date_str, end_date=end_date_str)
 
 
 @app.route('/login', methods=['GET', 'POST'])
