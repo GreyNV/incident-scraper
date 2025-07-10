@@ -1,6 +1,8 @@
 # Incident Scraper
 
-Simple Flask application to fetch and store Rockland County FireWatch incidents.
+Simple Flask application to display incidents stored in `incidents.json`. A
+separate script handles fetching data from the Rockland County FireWatch feed
+and updating the CSV/JSON files.
 
 ## Setup
 
@@ -35,11 +37,9 @@ are required to run in those environments.
 
 Then open `http://localhost:5000` in your browser when running locally.
 
-The index page now uses Bootstrap styling and paginates results 10 per page so large incident lists remain easy to navigate. New incidents appear first after each fetch.
-
-`app.py` now fetches incidents from the JSON feed used by Rockland
-FireWatch. If the endpoint changes, update the `FIREWATCH_URL` constant
-in the script accordingly.
+The index page uses Bootstrap for styling and displays all incidents in a single
+table. New incidents appear first once the JSON file has been updated by the
+`fetch_incidents.py` script.
 
 The CSV tracks these fields:
 
