@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for, send_file, request
+from flask import Flask, render_template, redirect, url_for, send_file
 import os
 import pandas as pd
 import requests
@@ -139,10 +139,7 @@ def csv_to_json():
 def index():
     csv_exists = os.path.exists(JSON_FILE)
     incidents = []
-    page = int(request.args.get("page", 1))
-    per_page = 10
-    total_pages = 1
-    logger.info("Rendering index page (page %d)", page)
+    logger.info("Rendering index page")
     if csv_exists:
         try:
             df = pd.read_json(JSON_FILE)
@@ -153,25 +150,11 @@ def index():
             df['sort_time'] = df['time_reported'].apply(parse_time_est)
             df.sort_values('sort_time', ascending=False, inplace=True)
             df.drop(columns=['sort_time'], inplace=True)
-
-            total_pages = max(1, (len(df) + per_page - 1) // per_page)
-            start = (page - 1) * per_page
-            incidents = df.iloc[start:start + per_page].to_dict('records')
+            incidents = df.to_dict('records')
         except Exception as exc:
             logger.error("Error reading %s: %s", JSON_FILE, exc)
-    return render_template('index.html', csv_exists=csv_exists, incidents=incidents, page=page, total_pages=total_pages)
+    return render_template('index.html', csv_exists=csv_exists, incidents=incidents)
 
-@app.route('/fetch', methods=['GET', 'POST'])
-def fetch_route():
-    logger.info("/fetch endpoint called")
-    incidents = fetch_firewatch()
-    if incidents:
-        logger.info("Fetched %d incidents", len(incidents))
-        deduplicate_and_save(incidents)
-        csv_to_json()
-    else:
-        logger.info("No incidents returned from feed")
-    return redirect(url_for('index'))
 
 @app.route('/download')
 def download_csv():
