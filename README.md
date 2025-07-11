@@ -45,6 +45,8 @@ Then open `http://localhost:5000` in your browser when running locally.
 The index page uses Bootstrap for styling and displays all incidents in a single
 table. New incidents appear first once the JSON file has been updated by the
 `fetch_incidents.py` script.
+You can filter results by date range and select one or more incident types using
+the multi-select dropdown above the table.
 
 The CSV tracks these fields:
 

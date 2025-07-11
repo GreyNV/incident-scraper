@@ -146,7 +146,8 @@ def index():
     logger.info("Rendering index page")
     start_date_str = request.args.get('start_date', '')
     end_date_str = request.args.get('end_date', '')
-    selected_type = request.args.get('incident_type', '')
+    # Allow selecting multiple incident types via ?incident_type=A&incident_type=B
+    selected_types = [t for t in request.args.getlist('incident_type') if t]
     start_date = None
     end_date = None
     if start_date_str:
@@ -174,8 +175,8 @@ def index():
                 df = df[df['sort_time'].dt.date <= end_date]
 
             incident_types = sorted(df['incident_type'].dropna().unique().tolist())
-            if selected_type:
-                df = df[df['incident_type'] == selected_type]
+            if selected_types:
+                df = df[df['incident_type'].isin(selected_types)]
 
             df.sort_values('sort_time', ascending=False, inplace=True)
             df.drop(columns=['sort_time'], inplace=True)
@@ -189,7 +190,7 @@ def index():
         start_date=start_date_str,
         end_date=end_date_str,
         incident_types=incident_types,
-        incident_type=selected_type,
+        selected_types=selected_types,
     )
 
 

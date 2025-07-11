@@ -18,11 +18,10 @@
             <input type="date" class="form-control" id="end_date" name="end_date" value="{{ end_date }}">
         </div>
         <div class="col-auto">
-            <label for="incident_type" class="form-label">Incident Type</label>
-            <select class="form-select" id="incident_type" name="incident_type">
-                <option value="">All</option>
+            <label for="incident_type" class="form-label">Incident Types</label>
+            <select class="form-select" id="incident_type" name="incident_type" multiple size="3">
                 {% for t in incident_types %}
-                <option value="{{ t }}" {% if t == incident_type %}selected{% endif %}>{{ t }}</option>
+                <option value="{{ t }}" {% if t in selected_types %}selected{% endif %}>{{ t }}</option>
                 {% endfor %}
             </select>
         </div>
