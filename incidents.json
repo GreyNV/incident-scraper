@@ -1,5 +1,285 @@
 [
   {
+    "time_reported":"2025-07-12 08:04:31 AM EST",
+    "address":"290 ROUTE 59 CENTRAL NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 07:13:29 AM EST",
+    "address":"15 SUMMIT AV SPRING VALLEY, NY 10977",
+    "incident_type":"Elev\/Escl Occup",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 06:52:23 AM EST",
+    "address":"11 MURRAY DR AIRMONT, NY",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 06:13:31 AM EST",
+    "address":"14 MAPLE LEAF RD MONSEY, NY 10952",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 05:43:25 AM EST",
+    "address":"130 ROUTE 340 SPARKILL, NY 10976",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 05:19:51 AM EST",
+    "address":"N ROUTE 9W & FOLTIM WAY CONGERS, NY",
+    "incident_type":"Rescue Call-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 03:28:48 AM EST",
+    "address":"8 WESTSIDE AV MONSEY, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 02:45:06 AM EST",
+    "address":"10 W RAMAPO RD GARNERVILLE, NY 10923",
+    "incident_type":"Smoke\/Odor In",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 01:20:44 AM EST",
+    "address":"320 S LITTLE TOR RD NEW CITY, NY 10956",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 10:04:26 PM EST",
+    "address":"12 ORCHARD CIR MONTEBELLO, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 07:59:07 PM EST",
+    "address":"22 E MAYER DR MONTEBELLO, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 07:59:00 PM EST",
+    "address":"2203 HYENGA WAY NANUET, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 07:56:34 PM EST",
+    "address":"80 OMNI PARC DR NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 07:14:24 PM EST",
+    "address":"2000 HYENGA WAY NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 07:02:52 PM EST",
+    "address":"107 DEVRIES CT PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 07:00:44 PM EST",
+    "address":"14 CONKLIN AV TAPPAN, NY 10983",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 06:24:00 PM EST",
+    "address":"335 ROUTE 202 POMONA, NY 10970",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 06:09:12 PM EST",
+    "address":"15 SIMENOVSKY DR HAVERSTRAW, NY 10927",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 06:05:03 PM EST",
+    "address":"28 E MAYER DR MONTEBELLO, NY 10901",
+    "incident_type":"Appliance Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 05:44:57 PM EST",
+    "address":"34 LENAPE RD PEARL RIVER, NY 10965",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 05:41:51 PM EST",
+    "address":"110 MAIN ST NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 05:06:41 PM EST",
+    "address":"9 GARYANN TERR STONY POINT, NY 10980",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 04:41:44 PM EST",
+    "address":"39 ROSE HILL RD MONTEBELLO, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 03:57:06 PM EST",
+    "address":"40 JEWETT PL NYACK, NY 10960",
+    "incident_type":"PD Accident",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 03:56:55 PM EST",
+    "address":"20 KLINGHER CT POMONA, NY 10970",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 03:51:50 PM EST",
+    "address":"3 CLEARVIEW RD NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 03:38:04 PM EST",
+    "address":"OLD MILL RD & SNAKE HILL RD WEST NYACK, NY 10994",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 03:27:08 PM EST",
+    "address":"TWAY 22-1 SB NANUET, NY 10954",
+    "incident_type":"Hazmat-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 02:22:10 PM EST",
+    "address":"174 OLD NYACK TRNPK S SPRING VALLEY, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 02:19:48 PM EST",
+    "address":"THIRD AV & N FRANKLIN ST NYACK, NY",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 02:18:51 PM EST",
+    "address":"561 ROUTE 9W PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 01:54:20 PM EST",
+    "address":"19 GLENSIDE DR NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 01:36:23 PM EST",
+    "address":"TWAY E14B SB - ON RAMP TALLMAN, NY 10982",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 01:29:54 PM EST",
+    "address":"12 INWOOD DR BARDONIA, NY 10954",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-11 01:11:23 PM EST",
+    "address":"7 PVT LOVETT CT BLAUVELT, NY 10913",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-11 11:40:36 AM EST",
     "address":"16 ROOSEVELT DR WEST HAVERSTRAW, NY 10993",
     "incident_type":"Smoke\/Odor In",
