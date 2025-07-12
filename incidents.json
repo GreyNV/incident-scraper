@@ -1,5 +1,85 @@
 [
   {
+    "time_reported":"2025-07-12 04:14:27 PM EST",
+    "address":"145 COLLEGE RD BLDG 7 VIOLA, NY",
+    "incident_type":"Fuel Spill\/Odor",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 03:20:11 PM EST",
+    "address":"104 LAKE RD VALLEY COTTAGE, NY 10989",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 03:13:15 PM EST",
+    "address":"78 DEMAREST AV WEST NYACK, NY 10994",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 03:05:45 PM EST",
+    "address":"7 S HIGHLAND AV UNIT M01 NYACK, NY 10960",
+    "incident_type":"Elev\/Escl Occup",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 03:04:42 PM EST",
+    "address":"62 N DE BAUN AV AIRMONT, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 02:20:24 PM EST",
+    "address":"8 N BROADWAY NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 02:02:53 PM EST",
+    "address":"LADIK ST & OHIO ST PIERMONT, NY",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 01:29:22 PM EST",
+    "address":"130 E ROUTE 59 SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 01:12:58 PM EST",
+    "address":"263 MAIN ST NYACK, NY 10960",
+    "incident_type":"Elev\/Escl Unkwn",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-12 01:12:25 PM EST",
+    "address":"282 SPOOK ROCK RD TALLMAN, NY 10982",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-12 08:04:31 AM EST",
     "address":"290 ROUTE 59 CENTRAL NYACK, NY 10960",
     "incident_type":"Automatic Alarm",
