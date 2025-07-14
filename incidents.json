@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-07-14 12:56:46 PM EST",
+    "address":"300 N BROADWAY UPPER NYACK, NY 10960",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-14 11:50:38 AM EST",
     "address":"40 RAMLAND RD ORANGEBURG, NY 10962",
     "incident_type":"Vehicle Fire",
