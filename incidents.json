@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-07-14 11:50:38 AM EST",
+    "address":"40 RAMLAND RD ORANGEBURG, NY 10962",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-14 11:26:49 AM EST",
+    "address":"7 S HIGHLAND AV NYACK, NY 10960",
+    "incident_type":"Elev\/Escl Occup",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-14 10:30:18 AM EST",
     "address":"73 SOUTH PARKER DR WESLEY HILLS, NY 10952",
     "incident_type":"Gas Hazard",
