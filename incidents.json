@@ -1,5 +1,237 @@
 [
   {
+    "time_reported":"2025-07-19 10:55:09 AM EST",
+    "address":"484 NEW HEMPSTEAD RD NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 10:36:37 AM EST",
+    "address":"20 ROLLING RIDGE RD NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 10:31:49 AM EST",
+    "address":"PIP 16-9 SB WEST NYACK, NY 10994",
+    "incident_type":"Veh Fire-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 10:08:31 AM EST",
+    "address":"112 LAKEWOOD DR CONGERS, NY 10920",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 08:52:51 AM EST",
+    "address":"206 W ROUTE 59 NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 07:51:30 AM EST",
+    "address":"160 N ROUTE 9W HAVERSTRAW, NY 10927",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 07:39:04 AM EST",
+    "address":"220 MAIN ST NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 05:28:23 AM EST",
+    "address":"55 PARK AV SUFFERN, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 05:04:56 AM EST",
+    "address":"18 RIDGEFIELD RD NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 04:56:32 AM EST",
+    "address":"180 FINLEY WAY PEARL RIVER, NY 10965",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 04:53:54 AM EST",
+    "address":"156 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 03:02:52 AM EST",
+    "address":"57 BROADWAY HAVERSTRAW, NY 10927",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 01:20:38 AM EST",
+    "address":"47 HYBRID RD VIOLA, NY 10952",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-19 01:04:59 AM EST",
+    "address":"228 RAMAPO RD GARNERVILLE, NY 10923",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 11:38:22 PM EST",
+    "address":"PIP 13-3 SB ORANGEBURG, NY 10962",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 10:21:16 PM EST",
+    "address":"1136 ROUTE 9W UPPER GRANDVIEW, NY 10960",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 09:08:24 PM EST",
+    "address":"104 LAKE RD VALLEY COTTAGE, NY 10989",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 08:18:58 PM EST",
+    "address":"420 WILLOW GROVE RD STONY POINT, NY 10980",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 06:47:46 PM EST",
+    "address":"10 HILLSIDE DR THIELLS, NY 10984",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 05:40:12 PM EST",
+    "address":"TWAY 35-1 NB BEAR MOUNTAIN, NY 10911",
+    "incident_type":"Rescue Call",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 05:10:00 PM EST",
+    "address":"9 REINA LN VALLEY COTTAGE, NY 10989",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 03:51:33 PM EST",
+    "address":"20 ROLLING RIDGE RD NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 03:37:59 PM EST",
+    "address":"30 DUNNIGAN DR MONTEBELLO, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 02:47:07 PM EST",
+    "address":"41 ROCKLAND CTR NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 01:53:47 PM EST",
+    "address":"110 BROOKHILL DR WEST NYACK, NY 10994",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 01:19:25 PM EST",
+    "address":"560 ROUTE 303 ORANGEBURG, NY 10962",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 12:59:15 PM EST",
+    "address":"57 TWEED BLVD UPPER GRANDVIEW, NY 10960",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 12:28:34 PM EST",
+    "address":"151 ROUTE 202 GARNERVILLE, NY 10923",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-18 09:25:09 AM EST",
+    "address":"X:-73.886843, Y:41.068498 ,  ",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-18 01:56:59 AM EST",
     "address":"400 ORITANI DR BLAUVELT, NY 10913",
     "incident_type":"Automatic Alarm",
@@ -681,7 +913,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -689,7 +921,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
