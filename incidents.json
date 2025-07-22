@@ -1,5 +1,29 @@
 [
   {
+    "time_reported":"2025-07-21 08:14:17 PM EST",
+    "address":"150 W ECKERSON RD SPRING VALLEY, NY 10977",
+    "incident_type":"Electric Inside",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-21 07:24:51 PM EST",
+    "address":"138 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-21 07:23:36 PM EST",
+    "address":"120 WESTERN HWY TAPPAN, NY 10983",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-21 06:42:00 PM EST",
     "address":"20 TENNYSON DR NANUET, NY 10954",
     "incident_type":"Outside Fire",
