@@ -8,6 +8,14 @@
     "email":null
   },
   {
+    "time_reported":"2025-07-22 02:53:44 PM EST",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-22 01:27:51 PM EST",
     "address":"10 ESQUIRE RD UNIT 14 NEW CITY, NY 10956",
     "incident_type":"Flooding",
