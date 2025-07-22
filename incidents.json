@@ -1,5 +1,29 @@
 [
   {
+    "time_reported":"2025-07-22 09:58:06 AM EST",
+    "address":"1000 PALISADES CENTER DR WEST NYACK, NY 10994",
+    "incident_type":"Elev\/Escl Occup",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-22 09:57:09 AM EST",
+    "address":"60 MARINER WAY VIOLA, NY 10952",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-22 09:41:15 AM EST",
+    "address":"RR BLAUVELT - ORITANI DRIVE BLAUVELT, NY 10913",
+    "incident_type":"Train-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-22 08:36:44 AM EST",
     "address":"220 E ROUTE 59 NANUET, NY 10954",
     "incident_type":"Automatic Alarm",
@@ -1449,7 +1473,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1457,7 +1481,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
