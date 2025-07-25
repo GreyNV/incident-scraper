@@ -1,5 +1,37 @@
 [
   {
+    "time_reported":"2025-07-25 10:00:06 AM EST",
+    "address":"BEAR MOUNTAIN BRIDGE - ROCKLAND HUDSON RIVER, NY",
+    "incident_type":"Water Resq-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 09:40:45 AM EST",
+    "address":"117 SHAD ROW PIERMONT, NY 10968",
+    "incident_type":"Elev\/Escl Occup",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 09:28:13 AM EST",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "incident_type":"Fuel Spill\/Odor",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 09:22:51 AM EST",
+    "address":"160 N ROUTE 9W HAVERSTRAW, NY 10927",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-25 08:58:29 AM EST",
     "address":"116 ADAR CT MONSEY, NY 10952",
     "incident_type":"Outside Fire",
@@ -10,6 +42,14 @@
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
     "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "incident_type":"Rescue Call-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 08:49:05 AM EST",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -577,7 +617,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -585,7 +625,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -665,7 +705,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -673,7 +713,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
