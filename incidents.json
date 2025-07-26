@@ -1,5 +1,277 @@
 [
   {
+    "time_reported":"2025-07-26 09:41:18 AM EST",
+    "address":"81 WASHINGTON AV SUFFERN, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 09:19:23 AM EST",
+    "address":"301 ROUTE 304 BARDONIA, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 08:51:51 AM EST",
+    "address":"4 ASSEMBLY CT NEW CITY, NY 10956",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 08:47:14 AM EST",
+    "address":"156 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 08:37:18 AM EST",
+    "address":"48 N QUINCE LN VIOLA, NY 10952",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 07:04:04 AM EST",
+    "address":"340 ROUTE 202 POMONA, NY 10970",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 06:49:02 AM EST",
+    "address":"35 CALVERT DR KASER, NY 10952",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 06:38:52 AM EST",
+    "address":"123 ROUTE 303 ORANGEBURG, NY 10962",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 06:05:18 AM EST",
+    "address":"PIP 18-9 SB NANUET, NY 10954",
+    "incident_type":"Rescue Call-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 04:19:18 AM EST",
+    "address":"123 ROUTE 303 ORANGEBURG, NY 10962",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 04:03:16 AM EST",
+    "address":"14 HAVERVALE LN GARNERVILLE, NY 10923",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 02:22:45 AM EST",
+    "address":"187 LONG CLOVE RD NEW CITY, NY 10956",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-26 01:41:13 AM EST",
+    "address":"8 LADENTOWN RD POMONA, NY 10970",
+    "incident_type":"Flooding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 11:01:43 PM EST",
+    "address":"94 MAIN ST NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 10:14:27 PM EST",
+    "address":"HAVERSTRAW RD & LAKE RD MONTEBELLO, NY 10901",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 09:51:00 PM EST",
+    "address":"296 ROUTE 17 HILLBURN, NY 10931",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 09:11:30 PM EST",
+    "address":"532 ROUTE 340 SPARKILL, NY 10976",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 08:31:26 PM EST",
+    "address":"HICKORY AV & FIFTH ST HILLBURN, NY",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 08:26:01 PM EST",
+    "address":"27 KEY PL TAPPAN, NY 10983",
+    "incident_type":"Structure Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 08:05:43 PM EST",
+    "address":"83 W BURDA PL NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 06:56:17 PM EST",
+    "address":"134 N LIBERTY DR STONY POINT, NY 10980",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 06:45:36 PM EST",
+    "address":"20 JILL LN MONSEY, NY 10952",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 06:16:54 PM EST",
+    "address":"42 POWDER HORN DR WESLEY HILLS, NY 10901",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 05:43:18 PM EST",
+    "address":"30 WILSON AV NEW SQUARE, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 05:02:33 PM EST",
+    "address":"1 W LAWRENCE PARK DR UNIT 10 PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 04:00:31 PM EST",
+    "address":"200 DASHEW DR TALLMAN, NY 10982",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 03:22:34 PM EST",
+    "address":"47 PECAN VALLEY DR NEW CITY, NY 10956",
+    "incident_type":"Hazmat-FD",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 03:17:49 PM EST",
+    "address":"81 ROUTE 303 TAPPAN, NY 10983",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 03:16:56 PM EST",
+    "address":"TWAY 18-5 SB WEST NYACK, NY 10994",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 03:04:40 PM EST",
+    "address":"ROUTE 59 & FORMAN DR NANUET, NY 10954",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 02:54:27 PM EST",
+    "address":"4 ZINKIV AV NEW SQUARE, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 02:53:41 PM EST",
+    "address":"101 STERLING MINE RD SLOATSBURG, NY 10974",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 02:46:05 PM EST",
+    "address":"S PASCACK RD & OLD NYACK TRNPK NANUET, NY 10954",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-25 02:45:48 PM EST",
+    "address":"32 N DE BAUN AV AIRMONT, NY",
+    "incident_type":"Elev\/Escl Unkwn",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-25 01:55:48 PM EST",
     "address":"ROUTE 9W MARKER - 9W 8501 1145 HAVERSTRAW, NY 10927",
     "incident_type":"Electric Hazard",
@@ -121,7 +393,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -129,7 +401,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
