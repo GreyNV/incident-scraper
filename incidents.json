@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-07-31 06:59:17 PM EST",
+    "address":"27 KEY PL TAPPAN, NY 10983",
+    "incident_type":"Electric Inside",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-07-31 06:01:56 PM EST",
+    "address":"41 DEMAREST AV UNIT A NEW CITY, NY 10956",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-07-31 05:58:48 PM EST",
     "address":"275 ROUTE 17 HILLBURN, NY 10931",
     "incident_type":"Electric Hazard",
@@ -3857,7 +3873,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3865,7 +3881,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
