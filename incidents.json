@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-08-01 05:47:37 PM EST",
+    "address":"253 ROUTE 59 AIRMONT, NY",
+    "incident_type":"Hazmat-FD",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-01 04:26:10 PM EST",
     "address":"259 SICKLETOWN RD WEST NYACK, NY 10994",
     "incident_type":"Automatic Alarm",
@@ -441,7 +449,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -449,7 +457,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -2649,7 +2657,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -2657,7 +2665,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
