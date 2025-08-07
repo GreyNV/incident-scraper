@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-08-07 05:24:02 PM EST",
+    "address":"W CHURCH ST & WEST ST SPRING VALLEY, NY 10977",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-07 04:56:42 PM EST",
     "address":"585 CHESTNUT RIDGE RD CHESTNUT RIDGE, NY 10977",
     "incident_type":"Automatic Alarm",
@@ -3353,7 +3361,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3361,7 +3369,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3929,7 +3937,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -3937,7 +3945,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
