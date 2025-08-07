@@ -1,5 +1,237 @@
 [
   {
+    "time_reported":"2025-08-07 08:49:35 AM EST",
+    "address":"45 S ROUTE 9W SUITE 50 WEST HAVERSTRAW, NY 10993",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 08:48:21 AM EST",
+    "address":"288 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 08:22:11 AM EST",
+    "address":"65 SOUTH BLVD SOUTH NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 08:01:55 AM EST",
+    "address":"45 S ROUTE 9W SUITE 50 WEST HAVERSTRAW, NY 10993",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 06:22:48 AM EST",
+    "address":"221 ROUTE 303 VALLEY COTTAGE, NY 10989",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 06:15:13 AM EST",
+    "address":"129 STRAWTOWN RD NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 06:02:24 AM EST",
+    "address":"120 LAKEVIEW VLG SPRING VALLEY, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 05:36:21 AM EST",
+    "address":"129 STRAWTOWN RD NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 04:44:37 AM EST",
+    "address":"22 THIRD ST NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 03:30:16 AM EST",
+    "address":"1 BROOKLINE CIR NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 02:04:32 AM EST",
+    "address":"50 SANATORIUM RD N E RAMAPO, NY 10970",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-07 01:06:19 AM EST",
+    "address":"100 SCHINDLER DR PEARL RIVER, NY 10965",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 10:25:34 PM EST",
+    "address":"94 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 09:09:53 PM EST",
+    "address":"3 KLINT CT NANUET, NY 10954",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 07:52:31 PM EST",
+    "address":"AZALEA DR & TOWNLINE RD NANUET, NY 10954",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 07:41:54 PM EST",
+    "address":"50 BALER BLVD RAMAPO, NY 10952",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 07:38:01 PM EST",
+    "address":"44 HILLSIDE AV AIRMONT, NY",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 06:31:30 PM EST",
+    "address":"S CENTRAL HWY & W RAMAPO RD GARNERVILLE, NY",
+    "incident_type":"Brush Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 06:05:42 PM EST",
+    "address":"18 JEFFERSON AV NEW SQUARE, NY 10977",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 04:00:22 PM EST",
+    "address":"286 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 03:49:12 PM EST",
+    "address":"21 PIONEER AV TALLMAN, NY 10901",
+    "incident_type":"Rescue Call-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 03:23:21 PM EST",
+    "address":"119 TREETOP CIR NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 03:05:35 PM EST",
+    "address":"36 GOTTLIEB DR CHESTNUT RIDGE, NY 10965",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 03:03:19 PM EST",
+    "address":"4 E CHURCH ST SPRING VALLEY, NY 10977",
+    "incident_type":"Structure Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 02:20:37 PM EST",
+    "address":"44 HASTINGS LN STONY POINT, NY 10980",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 02:19:57 PM EST",
+    "address":"368 ROUTE 306 NEW HEMPSTEAD, NY 10952",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 01:21:51 PM EST",
+    "address":"456 PIERMONT AV PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 12:56:54 PM EST",
+    "address":"15 TILTON RD SUFFERN, NY 10901",
+    "incident_type":"Assist PD",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-06 12:53:01 PM EST",
+    "address":"310 N MAIN ST HILLCREST, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-06 02:02:37 AM EST",
     "address":"9 HALLMARK DR NEW CITY, NY 10956",
     "incident_type":"Electric Hazard",
@@ -505,7 +737,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -513,7 +745,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -2993,7 +3225,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3001,7 +3233,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3569,7 +3801,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -3577,7 +3809,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
