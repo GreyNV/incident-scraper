@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-08-07 11:28:27 AM EST",
+    "address":"19 SPRING VALLEY MARKET PL SPRING VALLEY, NY 10977",
+    "incident_type":"Hazmat-FD",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-07 10:48:17 AM EST",
     "address":"1 SOUTH BLVD SOUTH NYACK, NY 10960",
     "incident_type":"Box Alarm",
@@ -1721,7 +1729,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -1729,7 +1737,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -3689,7 +3697,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3697,7 +3705,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
