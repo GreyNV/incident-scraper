@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-08-14 05:53:25 PM EST",
+    "address":"17 ANDOVER RD HILLCREST, NY 10977",
+    "incident_type":"Collapse",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-14 05:38:31 PM EST",
+    "address":"7 SOUNDVIEW DR WESLEY HILLS, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-14 04:45:58 PM EST",
     "address":"122 E ROUTE 59 NANUET, NY 10954",
     "incident_type":"Automatic Alarm",
@@ -1962,7 +1978,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -1970,7 +1986,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -2169,7 +2185,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -2177,7 +2193,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -5081,7 +5097,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -5089,7 +5105,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
