@@ -1,5 +1,269 @@
 [
   {
+    "time_reported":"2025-08-19 10:55:11 AM EST",
+    "address":"130 ROUTE 340 SPARKILL, NY 10976",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 10:44:49 AM EST",
+    "address":"560 ROUTE 303 ORANGEBURG, NY 10962",
+    "incident_type":"Electric Inside",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 10:38:16 AM EST",
+    "address":"561 ROUTE 9W PIERMONT, NY 10968",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 09:48:03 AM EST",
+    "address":"585 CHESTNUT RIDGE RD CHESTNUT RIDGE, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 09:32:55 AM EST",
+    "address":"15 PIONEER AV TALLMAN, NY 10901",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 09:27:04 AM EST",
+    "address":"724 S PASCACK RD CHESTNUT RIDGE, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 08:39:57 AM EST",
+    "address":"200 DASHEW DR TALLMAN, NY 10982",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 08:31:09 AM EST",
+    "address":"60 S MAIN ST NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 08:23:06 AM EST",
+    "address":"140 CLINTON AV SOUTH NYACK, NY 10960",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 08:21:45 AM EST",
+    "address":"126 E RAILROAD AV WEST HAVERSTRAW, NY 10993",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 05:29:53 AM EST",
+    "address":"235 N PASCACK RD HILLCREST, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 03:05:54 AM EST",
+    "address":"400 HIGH AV NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 12:52:26 AM EST",
+    "address":"87 S LIBERTY DR STONY POINT, NY 10980",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 10:30:48 PM EST",
+    "address":"12 HEMPSTEAD RD HILLCREST, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 10:00:19 PM EST",
+    "address":"222 COUNTRY CLUB LN POMONA, NY 10970",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 08:33:50 PM EST",
+    "address":"254 S MAIN ST UNIT 216 NEW CITY, NY 10956",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 08:02:32 PM EST",
+    "address":"9 PIERMONT AV PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 07:50:29 PM EST",
+    "address":"400 SEVEN LAKES DR BEAR MOUNTAIN, NY 10911",
+    "incident_type":"Smoke\/Odor Out",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 07:50:27 PM EST",
+    "address":"2 WILLOW AV CENTRAL NYACK, NY 10960",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 07:32:49 PM EST",
+    "address":"279 E CENTRAL AV PEARL RIVER, NY 10965",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 07:04:41 PM EST",
+    "address":"377 WESTERN HWY TAPPAN, NY 10983",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 06:26:50 PM EST",
+    "address":"201 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 06:05:08 PM EST",
+    "address":"19 HARTZ TERR PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 05:39:34 PM EST",
+    "address":"ROCKLAND LAKE - B\/T PARKNG LOT 2 AND 3 ROCKLAND LAKE, NY",
+    "incident_type":"Brush Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 04:28:47 PM EST",
+    "address":"41 WAYNE AV SUFFERN, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 04:15:42 PM EST",
+    "address":"452 HAVERSTRAW RD MONTEBELLO, NY 10901",
+    "incident_type":"Rescue Call-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 04:12:49 PM EST",
+    "address":"130 ROUTE 340 SPARKILL, NY 10976",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 04:06:01 PM EST",
+    "address":"38 N MIDLAND AV APT 4 NYACK, NY 10960",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 03:24:26 PM EST",
+    "address":"8 ELM ST UNIT 412 PARK CREST, NY 10977",
+    "incident_type":"Smoke\/Odor In",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 03:23:55 PM EST",
+    "address":"8 ELM ST PARK CREST, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 03:20:20 PM EST",
+    "address":"337 N MIDDLETOWN RD NANUET, NY 10954",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 02:54:03 PM EST",
+    "address":"3101 PARKVIEW DR SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-18 01:33:15 PM EST",
+    "address":"330 N HIGHLAND AV UPPER NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-18 08:16:21 AM EST",
     "address":"TWAY 21-1 SB NANUET, NY 10954",
     "incident_type":"Hazmat-FD",
@@ -817,7 +1081,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -825,7 +1089,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -2953,7 +3217,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -2961,7 +3225,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
