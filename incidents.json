@@ -1,5 +1,77 @@
 [
   {
+    "time_reported":"2025-08-20 04:19:47 AM EST",
+    "address":"94 CRYSTAL HILL DR POMONA, NY 10970",
+    "incident_type":"Assist EMS",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-20 03:20:54 AM EST",
+    "address":"7 RIDGE LN UNIT 304 SPRING VALLEY, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-20 01:20:46 AM EST",
+    "address":"10 HOMER LEE AV SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-20 12:22:49 AM EST",
+    "address":"150 S LITTLE TOR RD NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 11:25:14 PM EST",
+    "address":"6 ROSE GARDEN WAY MONSEY, NY 10952",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 09:08:02 PM EST",
+    "address":"381 VIOLA RD VIOLA, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 08:00:23 PM EST",
+    "address":"219 S MAIN ST PEARL RIVER, NY 10965",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 07:57:39 PM EST",
+    "address":"663 N BROADWAY UPPER NYACK, NY 10960",
+    "incident_type":"Swft Water Resq",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-19 07:02:48 PM EST",
+    "address":"15 WESTGATE BLVD NEW CITY, NY 10956",
+    "incident_type":"Brush Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-19 06:59:52 PM EST",
     "address":"9 WESTGATE BLVD NEW CITY, NY 10956",
     "incident_type":"Brush Fire",
@@ -3146,7 +3218,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3154,7 +3226,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -3353,7 +3425,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -3361,7 +3433,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -6417,7 +6489,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -6425,7 +6497,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -6505,7 +6577,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -6513,7 +6585,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -7953,7 +8025,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -7961,7 +8033,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
