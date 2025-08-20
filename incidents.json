@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-08-20 04:47:40 PM EST",
+    "address":"2 VAN WARDT PL TAPPAN, NY 10983",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-08-20 04:06:25 PM EST",
+    "address":"135 WEST NYACK RD NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-20 03:17:29 PM EST",
     "address":"1 BRAEMAR CT NEW CITY, NY 10956",
     "incident_type":"Automatic Alarm",
@@ -3505,7 +3521,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -3513,7 +3529,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -4449,7 +4465,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -4457,7 +4473,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -5993,7 +6009,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -6001,7 +6017,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
