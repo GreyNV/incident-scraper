@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-08-27 03:27:19 PM EST",
+    "address":"2 MEADOW LN NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-27 02:16:24 PM EST",
     "address":"1 PHIL TISI WAY N E RAMAPO, NY 10970",
     "incident_type":"Automatic Alarm",
@@ -2865,7 +2873,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -2873,7 +2881,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -2913,7 +2921,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -2921,7 +2929,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -3970,7 +3978,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3978,7 +3986,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -4794,7 +4802,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -4802,7 +4810,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -7489,7 +7497,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -7497,7 +7505,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -7913,7 +7921,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -7921,7 +7929,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
