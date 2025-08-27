@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-08-27 07:40:16 AM EST",
+    "address":"6 DURYEA LN NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-08-27 03:32:41 AM EST",
     "address":"250 ROUTE 59 AIRMONT, NY",
     "incident_type":"Automatic Alarm",
@@ -2009,7 +2017,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -2017,7 +2025,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3858,7 +3866,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3866,7 +3874,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
