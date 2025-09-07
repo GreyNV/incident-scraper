@@ -1,5 +1,229 @@
 [
   {
+    "time_reported":"2025-09-07 09:54:07 AM EST",
+    "address":"7 N RIGAUD RD SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 09:52:25 AM EST",
+    "address":"11 ABERDEEN DR WEST NYACK, NY 10994",
+    "incident_type":"Smoke\/Odor In",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 09:49:25 AM EST",
+    "address":"11 ABERDEEN AV CHESTNUT RIDGE, NY 10977",
+    "incident_type":"Smoke\/Odor In",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 09:36:40 AM EST",
+    "address":"37 S PEARL ST PEARL RIVER, NY 10965",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 09:26:59 AM EST",
+    "address":"372 FERDON AV PIERMONT, NY 10968",
+    "incident_type":"Electric Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 07:46:25 AM EST",
+    "address":"KENNEDY DR & W ROUTE 59 SPRING VALLEY, NY 10977",
+    "incident_type":"Assist EMS",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 04:26:50 AM EST",
+    "address":"26 WINDMILL LN NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 02:53:05 AM EST",
+    "address":"227 KENNEDY DR SPRING VALLEY, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 02:47:11 AM EST",
+    "address":"22 E WILLOW TREE RD WESLEY HILLS, NY 10977",
+    "incident_type":"Odor Investigat",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 12:51:49 AM EST",
+    "address":"259 SICKLETOWN RD WEST NYACK, NY 10994",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-07 12:33:12 AM EST",
+    "address":"157 PROSPECT ST NANUET, NY 10954",
+    "incident_type":"Alarm-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 11:54:36 PM EST",
+    "address":"47 KENNEDY DR SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 09:29:17 PM EST",
+    "address":"681 CHESTNUT RIDGE RD BLDG 15 CHESTNUT RIDGE, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 08:51:21 PM EST",
+    "address":"15 ROSE HILL RD MONTEBELLO, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 08:42:18 PM EST",
+    "address":"20 TAMMY RD WESLEY HILLS, NY 10977",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 08:17:57 PM EST",
+    "address":"NEW COUNTY RD & SOBRISCO ST AIRMONT, NY",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 07:06:45 PM EST",
+    "address":"33 SWAN ST PALISADES, NY 10964",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 06:28:16 PM EST",
+    "address":"26 FIELDSTONE CT NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 05:02:45 PM EST",
+    "address":"326 N BROADWAY UPPER NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 05:01:02 PM EST",
+    "address":"53 NEW HEMPSTEAD RD NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 02:47:45 PM EST",
+    "address":"60 N DE BAUN AV AIRMONT, NY 10901",
+    "incident_type":"Public Asst FD",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 02:36:57 PM EST",
+    "address":"306 KENNEDY DR SPRING VALLEY, NY 10977",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 02:35:11 PM EST",
+    "address":"326 N BROADWAY UPPER NYACK, NY 10960",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 02:10:35 PM EST",
+    "address":"12 COLLINE DR MONTEBELLO, NY 10901",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 01:43:41 PM EST",
+    "address":"39 BETHUNE BLVD SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 01:30:52 PM EST",
+    "address":"151 GRANDVIEW AV WESLEY HILLS, NY 10901",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 01:15:36 PM EST",
+    "address":"101 MARKET ST E NANUET, NY 10954",
+    "incident_type":"Brush Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-06 11:59:11 AM EST",
+    "address":"72 SCHRIEVER LN NEW CITY, NY 10956",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-06 10:30:09 AM EST",
     "address":"86 ALEXANDER CT NANUET, NY 10954",
     "incident_type":"Appliance Fire",
@@ -1073,7 +1297,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -1081,7 +1305,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -1785,7 +2009,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -1793,7 +2017,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -4161,7 +4385,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -4169,7 +4393,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -4905,7 +5129,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -4913,7 +5137,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -6834,7 +7058,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -6842,7 +7066,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -7985,7 +8209,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -7993,7 +8217,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -9953,7 +10177,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -9961,7 +10185,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
