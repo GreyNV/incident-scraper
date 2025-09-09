@@ -1,5 +1,29 @@
 [
   {
+    "time_reported":"2025-09-09 03:40:36 PM EST",
+    "address":"407 N MIDLAND AV UPPER NYACK, NY 10960",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-09 03:19:04 PM EST",
+    "address":"9 PIERMONT AV PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-09 03:12:57 PM EST",
+    "address":"526 ROUTE 303 ORANGEBURG, NY 10962",
+    "incident_type":"Assist EMS",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-09 03:00:18 PM EST",
     "address":"493 WESTERN HWY ORANGEBURG, NY 10962",
     "incident_type":"Rescue Call-Inj",
@@ -2249,7 +2273,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -2257,7 +2281,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -7538,7 +7562,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -7546,7 +7570,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -8689,7 +8713,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8697,7 +8721,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -10233,7 +10257,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -10241,7 +10265,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -10897,7 +10921,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -10905,7 +10929,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
