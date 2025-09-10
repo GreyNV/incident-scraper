@@ -1,8 +1,32 @@
 [
   {
-    "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
-    "incident_type":"Rescue Call-Inj",
+    "time_reported":"2025-09-10 10:47:14 AM EST",
+    "address":"13 RALPH BLVD VIOLA, NY 10952",
+    "incident_type":"Appliance Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-10 10:37:30 AM EST",
+    "address":"151 GRANDVIEW AV WESLEY HILLS, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-10 10:36:16 AM EST",
+    "address":"310 N MAIN ST HILLCREST, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-10 10:33:57 AM EST",
+    "address":"42 FREEDMAN AV NANUET, NY 10954",
+    "incident_type":"Structure Fire",
     "name":null,
     "phone":null,
     "email":null
@@ -10,6 +34,14 @@
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
     "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "incident_type":"Rescue Call-Inj",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-10 08:45:42 AM EST",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -569,7 +601,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -577,7 +609,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -2417,7 +2449,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -2425,7 +2457,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -6882,7 +6914,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -6890,7 +6922,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -8857,7 +8889,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8865,7 +8897,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -12513,7 +12545,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12521,7 +12553,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
