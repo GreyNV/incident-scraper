@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-10 03:43:47 PM EST",
+    "address":"110 BETHUNE BLVD SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-10 03:21:51 PM EST",
+    "address":"97 HIGHVIEW RD TALLMAN, NY 10982",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-10 02:45:46 PM EST",
     "address":"144 ROUTE 59 MONSEY, NY 10952",
     "incident_type":"Appliance Fire",
@@ -89,7 +105,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -97,7 +113,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -473,7 +489,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -481,7 +497,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -5865,7 +5881,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -5873,7 +5889,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -6970,7 +6986,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -6978,7 +6994,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -7794,7 +7810,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -7802,7 +7818,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -10489,7 +10505,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -10497,7 +10513,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -11065,7 +11081,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -11073,7 +11089,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -11153,7 +11169,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -11161,7 +11177,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12601,7 +12617,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12609,7 +12625,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
