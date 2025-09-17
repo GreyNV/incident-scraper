@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-09-17 10:39:05 AM EST",
+    "address":"55 N AIRMONT RD TALLMAN, NY 10901",
+    "incident_type":"Brush Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-17 09:22:12 AM EST",
     "address":"200 N HIGHLAND AV NYACK, NY 10960",
     "incident_type":"Hazmat-FD",
@@ -1521,7 +1529,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1529,7 +1537,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1905,7 +1913,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -1913,7 +1921,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -4177,7 +4185,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -4185,7 +4193,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -7345,7 +7353,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -7353,7 +7361,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -9226,7 +9234,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -9234,7 +9242,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -11921,7 +11929,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -11929,7 +11937,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12345,7 +12353,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12353,7 +12361,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12585,7 +12593,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12593,7 +12601,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
