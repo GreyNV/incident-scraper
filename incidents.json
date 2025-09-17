@@ -4065,7 +4065,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -4073,7 +4073,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -9114,7 +9114,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -9122,7 +9122,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -13921,7 +13921,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13929,7 +13929,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
