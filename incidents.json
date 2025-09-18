@@ -1,5 +1,29 @@
 [
   {
+    "time_reported":"2025-09-18 09:01:36 AM EST",
+    "address":"130 N ROUTE 303 WEST NYACK, NY 10994",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-18 08:25:46 AM EST",
+    "address":"554 PIERMONT AV PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-18 08:11:56 AM EST",
+    "address":"N ROUTE 303 & CASPER HILL RD VALLEY COTTAGE, NY 10989",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-18 07:45:26 AM EST",
     "address":"TWAY 28-9 NB SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
@@ -3697,7 +3721,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -3705,7 +3729,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -4169,7 +4193,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -4177,7 +4201,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -8634,7 +8658,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -8642,7 +8666,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -9665,7 +9689,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -9673,7 +9697,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -12153,7 +12177,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12161,7 +12185,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -14265,7 +14289,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -14273,7 +14297,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
