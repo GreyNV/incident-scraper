@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-18 02:09:41 PM EST",
+    "address":"188 N MIDDLETOWN RD NANUET, NY 10954",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-18 02:08:07 PM EST",
+    "address":"100 SPRING VALLEY MARKET PL SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-18 01:39:40 PM EST",
     "address":"261 ROUTE 306 VIOLA, NY 10952",
     "incident_type":"Automatic Alarm",
@@ -498,7 +514,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -506,7 +522,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -1857,7 +1873,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1865,7 +1881,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -2425,7 +2441,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -2433,7 +2449,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -7633,7 +7649,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -7641,7 +7657,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -7681,7 +7697,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -7689,7 +7705,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -8738,7 +8754,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -8746,7 +8762,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -12921,7 +12937,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12929,7 +12945,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
