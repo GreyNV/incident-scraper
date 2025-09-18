@@ -378,7 +378,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -386,7 +386,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -4393,7 +4393,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -4401,7 +4401,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -12561,7 +12561,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12569,7 +12569,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
