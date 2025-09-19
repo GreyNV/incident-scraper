@@ -3073,7 +3073,7 @@
   },
   {
     "time_reported":"2025-09-05 04:01:33 PM EST",
-    "address":"750 GATE HILL RD STONY POINT, NY 10980",
+    "address":"670 GATE HILL RD STONY POINT, NY 10980",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -3081,7 +3081,7 @@
   },
   {
     "time_reported":"2025-09-05 04:01:33 PM EST",
-    "address":"670 GATE HILL RD STONY POINT, NY 10980",
+    "address":"750 GATE HILL RD STONY POINT, NY 10980",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -4745,7 +4745,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -4753,7 +4753,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
