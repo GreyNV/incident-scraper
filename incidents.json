@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-09-20 10:56:11 AM EST",
+    "address":"HUDSON RIVER - PIERMONT HUDSON RIVER, NY",
+    "incident_type":"Water Resq",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-20 08:45:55 AM EST",
     "address":"6 CIRCLE CT NEW CITY, NY 10956",
     "incident_type":"Brush Fire",
@@ -353,7 +361,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -361,7 +369,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -2633,7 +2641,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -2641,7 +2649,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -4193,7 +4201,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -4201,7 +4209,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -7281,7 +7289,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -7289,7 +7297,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -8073,7 +8081,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -8081,7 +8089,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -9130,7 +9138,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -9138,7 +9146,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -10161,7 +10169,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10169,7 +10177,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
