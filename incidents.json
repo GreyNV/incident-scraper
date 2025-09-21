@@ -1,5 +1,61 @@
 [
   {
+    "time_reported":"2025-09-21 01:15:40 PM EST",
+    "address":"19 N SADDLE RIVER RD KASER, NY 10952",
+    "incident_type":"Appliance Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-21 12:25:34 PM EST",
+    "address":"649 PIERMONT AV PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-21 11:22:40 AM EST",
+    "address":"200 FERRY RD PIERMONT, NY 10968",
+    "incident_type":"MEDICAL",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-21 10:50:15 AM EST",
+    "address":"30 CRAGMERE RD AIRMONT, NY",
+    "incident_type":"Assist EMS",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-21 09:32:53 AM EST",
+    "address":"20 SANDYFIELDS LN STONY POINT, NY 10980",
+    "incident_type":"Gas Hazard",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-21 09:24:54 AM EST",
+    "address":"20 PINE GLEN DR BLAUVELT, NY 10913",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-21 07:26:54 AM EST",
+    "address":"156 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-21 05:08:30 AM EST",
     "address":"28 HIGH MOUNTAIN RD POMONA, NY 10970",
     "incident_type":"Alarm Sounding",
@@ -1042,7 +1098,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -1050,7 +1106,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3385,7 +3441,7 @@
   },
   {
     "time_reported":"2025-09-05 04:01:33 PM EST",
-    "address":"750 GATE HILL RD STONY POINT, NY 10980",
+    "address":"670 GATE HILL RD STONY POINT, NY 10980",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -3393,7 +3449,7 @@
   },
   {
     "time_reported":"2025-09-05 04:01:33 PM EST",
-    "address":"670 GATE HILL RD STONY POINT, NY 10980",
+    "address":"750 GATE HILL RD STONY POINT, NY 10980",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -4345,7 +4401,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -4353,7 +4409,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -5057,7 +5113,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -5065,7 +5121,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -10106,7 +10162,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -10114,7 +10170,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -10313,7 +10369,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10321,7 +10377,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -11257,7 +11313,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -11265,7 +11321,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -13225,7 +13281,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13233,7 +13289,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13377,7 +13433,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -13385,7 +13441,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -13465,7 +13521,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13473,7 +13529,7 @@
   },
   {
     "time_reported":"2025-07-22 07:36:24 AM EST",
-    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY 10927",
+    "address":"MAPLE AV & TOR AV HAVERSTRAW, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -14913,7 +14969,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -14921,7 +14977,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
