@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-22 02:55:04 PM EST",
+    "address":"7 PVT LOVETT CT BLAUVELT, NY 10913",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-22 02:23:29 PM EST",
+    "address":"TWAY 14-4 SB HUDSON RIVER, NY",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-22 01:50:12 PM EST",
     "address":"12 HILLSIDE RD SLOATSBURG, NY 10974",
     "incident_type":"Smoke\/Odor Out",
@@ -689,7 +705,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -697,7 +713,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1226,7 +1242,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -1234,7 +1250,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -3569,7 +3585,7 @@
   },
   {
     "time_reported":"2025-09-05 04:01:33 PM EST",
-    "address":"750 GATE HILL RD STONY POINT, NY 10980",
+    "address":"670 GATE HILL RD STONY POINT, NY 10980",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -3577,7 +3593,7 @@
   },
   {
     "time_reported":"2025-09-05 04:01:33 PM EST",
-    "address":"670 GATE HILL RD STONY POINT, NY 10980",
+    "address":"750 GATE HILL RD STONY POINT, NY 10980",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -12985,7 +13001,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12993,7 +13009,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
