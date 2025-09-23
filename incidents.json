@@ -3345,7 +3345,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -3353,7 +3353,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -8553,7 +8553,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8561,7 +8561,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -10689,7 +10689,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10697,7 +10697,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -11633,7 +11633,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -11641,7 +11641,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
