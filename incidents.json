@@ -1,5 +1,45 @@
 [
   {
+    "time_reported":"2025-09-22 11:39:54 PM EST",
+    "address":"24 HALLER CRSNT CHESTNUT RIDGE, NY 10977",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-22 11:38:43 PM EST",
+    "address":"23 GLENMARE MEWS NYACK, NY 10960",
+    "incident_type":"CO Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-22 11:24:17 PM EST",
+    "address":"79 CEDAR HILL AV SOUTH NYACK, NY 10960",
+    "incident_type":"Outside Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-22 10:44:24 PM EST",
+    "address":"235 N PASCACK RD HILLCREST, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-22 10:13:30 PM EST",
+    "address":"112 WARREN KNLS HAVERSTRAW, NY 10927",
+    "incident_type":"Alarm Sounding",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-22 08:57:22 PM EST",
     "address":"46 LILLIAN ST POMONA, NY 10970",
     "incident_type":"Alarm Sounding",
@@ -577,7 +617,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -585,7 +625,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -769,7 +809,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -777,7 +817,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1306,7 +1346,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -1314,7 +1354,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -10370,7 +10410,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -10378,7 +10418,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -10577,7 +10617,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10585,7 +10625,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -13489,7 +13529,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13497,7 +13537,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -15177,7 +15217,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -15185,7 +15225,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
