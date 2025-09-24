@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-09-24 05:21:24 PM EST",
+    "address":"17 AVALON GARDENS DR NANUET, NY 10954",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-24 04:55:17 PM EST",
     "address":"12 ORIOLE RD NEW CITY, NY 10956",
     "incident_type":"Electric Inside",
@@ -65,7 +73,7 @@
   },
   {
     "time_reported":"2025-09-24 11:27:30 AM EST",
-    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY 10968",
+    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -73,7 +81,7 @@
   },
   {
     "time_reported":"2025-09-24 11:27:30 AM EST",
-    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY",
+    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY 10968",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -873,7 +881,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -881,7 +889,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -4905,7 +4913,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -4913,7 +4921,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -5617,7 +5625,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -5625,7 +5633,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -8737,7 +8745,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8745,7 +8753,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -10873,7 +10881,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10881,7 +10889,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -11817,7 +11825,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -11825,7 +11833,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -15473,7 +15481,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -15481,7 +15489,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
