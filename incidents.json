@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-24 02:59:08 PM EST",
+    "address":"310 WESTSIDE AV HAVERSTRAW, NY 10927",
+    "incident_type":"Appliance Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-24 02:16:18 PM EST",
+    "address":"475 NEW HEMPSTEAD RD NEW CITY, NY 10956",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-24 01:09:09 PM EST",
     "address":"209 LAFAYETTE AV SUFFERN, NY 10901",
     "incident_type":"Automatic Alarm",
@@ -9,7 +25,7 @@
   },
   {
     "time_reported":"2025-09-24 11:27:30 AM EST",
-    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY 10968",
+    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -17,7 +33,7 @@
   },
   {
     "time_reported":"2025-09-24 11:27:30 AM EST",
-    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY",
+    "address":"ROCKLAND RD & FERDON AV PIERMONT, NY 10968",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -81,7 +97,7 @@
   },
   {
     "time_reported":"2025-09-23 03:01:07 PM EST",
-    "address":"24 MIRROR LAKE RD HILLCREST, NY 10977",
+    "address":"MIRROR LAKE RD & ETON LN HILLCREST, NY 10977",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -89,7 +105,7 @@
   },
   {
     "time_reported":"2025-09-23 03:01:07 PM EST",
-    "address":"MIRROR LAKE RD & ETON LN HILLCREST, NY 10977",
+    "address":"24 MIRROR LAKE RD HILLCREST, NY 10977",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -817,7 +833,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -825,7 +841,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -3289,7 +3305,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -3297,7 +3313,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -4849,7 +4865,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -4857,7 +4873,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -8681,7 +8697,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8689,7 +8705,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8729,7 +8745,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -8737,7 +8753,7 @@
   },
   {
     "time_reported":"2025-08-14 08:22:34 AM EST",
-    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY 10901",
+    "address":"HAVERSTRAW RD & SPOOK ROCK RD WESLEY HILLS, NY",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -9786,7 +9802,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -9794,7 +9810,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -10610,7 +10626,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard",
+    "incident_type":"Gas Hazard-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -10618,7 +10634,7 @@
   {
     "time_reported":"2025-08-05 03:02:34 AM EST",
     "address":"250 N ROUTE 303 CONGERS, NY 10920",
-    "incident_type":"Gas Hazard-Inj",
+    "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
     "email":null
@@ -10817,7 +10833,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10825,7 +10841,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -13729,7 +13745,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13737,7 +13753,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
