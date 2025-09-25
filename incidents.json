@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-25 03:02:30 PM EST",
+    "address":"101 KENNEDY DR SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-25 02:44:46 PM EST",
+    "address":"E CASTLE AV & S MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Vehicle Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-25 01:44:42 PM EST",
     "address":"6 LEEWARD DR HAVERSTRAW, NY 10927",
     "incident_type":"Flooding",
@@ -1746,7 +1762,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -1754,7 +1770,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3105,7 +3121,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3113,7 +3129,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -8137,7 +8153,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -8145,7 +8161,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -8881,7 +8897,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -8889,7 +8905,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -9986,7 +10002,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Mutual Aid",
+    "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -9994,7 +10010,7 @@
   {
     "time_reported":"2025-08-08 03:40:18 PM EST",
     "address":"TWAY 16-2 NB GRANDVIEW, NY 10960",
-    "incident_type":"Rescue Call-Inj",
+    "incident_type":"Mutual Aid",
     "name":null,
     "phone":null,
     "email":null
@@ -11017,7 +11033,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -11025,7 +11041,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -11961,7 +11977,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -11969,7 +11985,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -13505,7 +13521,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -13513,7 +13529,7 @@
   },
   {
     "time_reported":"2025-07-25 08:49:05 AM EST",
-    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY",
+    "address":"GOEBEL RD & ROUTE 304 NEW CITY, NY 10956",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
