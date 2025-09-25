@@ -1,5 +1,13 @@
 [
   {
+    "time_reported":"2025-09-25 08:33:50 AM EST",
+    "address":"27 CHESTNUT ST SUFFERN, NY 10901",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-25 04:58:31 AM EST",
     "address":"200 DASHEW DR TALLMAN, NY 10982",
     "incident_type":"Automatic Alarm",
@@ -225,7 +233,7 @@
   },
   {
     "time_reported":"2025-09-23 03:01:07 PM EST",
-    "address":"MIRROR LAKE RD & ETON LN HILLCREST, NY 10977",
+    "address":"24 MIRROR LAKE RD HILLCREST, NY 10977",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -233,7 +241,7 @@
   },
   {
     "time_reported":"2025-09-23 03:01:07 PM EST",
-    "address":"24 MIRROR LAKE RD HILLCREST, NY 10977",
+    "address":"MIRROR LAKE RD & ETON LN HILLCREST, NY 10977",
     "incident_type":"Smoke\/Odor Out",
     "name":null,
     "phone":null,
@@ -1153,7 +1161,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1161,7 +1169,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1690,7 +1698,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -1698,7 +1706,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3049,7 +3057,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3057,7 +3065,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -5465,7 +5473,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -5473,7 +5481,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -10961,7 +10969,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"36 LEONA AV NEW CITY, NY",
+    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -10969,7 +10977,7 @@
   },
   {
     "time_reported":"2025-08-04 10:45:41 AM EST",
-    "address":"LEONA AV & WINFIELD AV NEW CITY, NY 10956",
+    "address":"36 LEONA AV NEW CITY, NY",
     "incident_type":"Outside Fire",
     "name":null,
     "phone":null,
@@ -15561,7 +15569,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -15569,7 +15577,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
