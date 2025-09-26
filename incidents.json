@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-26 04:46:52 PM EST",
+    "address":"22 S HILLSIDE AV HILLCREST, NY 10977",
+    "incident_type":"Structure Fire",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-26 04:22:54 PM EST",
+    "address":"200 DASHEW DR TALLMAN, NY 10982",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-26 02:49:12 PM EST",
     "address":"15 WITS END NEW HEMPSTEAD, NY 10977",
     "incident_type":"Alarm Sounding",
@@ -1249,7 +1265,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -1257,7 +1273,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -8369,7 +8385,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -8377,7 +8393,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -14313,7 +14329,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -14321,7 +14337,7 @@
   },
   {
     "time_reported":"2025-07-22 02:53:44 PM EST",
-    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY 10977",
+    "address":"N MAIN ST & ORCHARD ST HILLCREST, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -15849,7 +15865,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -15857,7 +15873,7 @@
   },
   {
     "time_reported":"2025-07-15 07:55:00 AM EST",
-    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY 10970",
+    "address":"OLD ROUTE 202A & ROUTE 45 POMONA, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
