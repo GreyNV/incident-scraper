@@ -1249,7 +1249,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -1257,7 +1257,7 @@
   },
   {
     "time_reported":"2025-09-19 11:57:50 AM EST",
-    "address":"KOPAC LN & ROUTE 9W PALISADES, NY",
+    "address":"KOPAC LN & ROUTE 9W PALISADES, NY 10964",
     "incident_type":"Hazmat-Inj",
     "name":null,
     "phone":null,
@@ -3721,7 +3721,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -3729,7 +3729,7 @@
   },
   {
     "time_reported":"2025-09-08 10:47:15 AM EST",
-    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY 10965",
+    "address":"GILBERT AV & LOIS DR PEARL RIVER, NY",
     "incident_type":"Gas Hazard",
     "name":null,
     "phone":null,
@@ -9113,7 +9113,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -9121,7 +9121,7 @@
   },
   {
     "time_reported":"2025-08-14 03:00:30 PM EST",
-    "address":"S GREENBUSH RD & ROUTE 303 BLAUVELT, NY 10913",
+    "address":"E ERIE ST & ROUTE 303 BLAUVELT, NY 10913",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
