@@ -1,5 +1,21 @@
 [
   {
+    "time_reported":"2025-09-26 11:05:49 PM EST",
+    "address":"33 N MAIN ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
+    "time_reported":"2025-09-26 10:28:58 PM EST",
+    "address":"7 JOHNSON ST SPRING VALLEY, NY 10977",
+    "incident_type":"Automatic Alarm",
+    "name":null,
+    "phone":null,
+    "email":null
+  },
+  {
     "time_reported":"2025-09-26 09:13:31 PM EST",
     "address":"19 NEW COUNTY RD AIRMONT, NY 10952",
     "incident_type":"Alarm Sounding",
@@ -1513,7 +1529,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -1521,7 +1537,7 @@
   },
   {
     "time_reported":"2025-09-18 04:40:29 PM EST",
-    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY",
+    "address":"ROUTE 303 & KINGS HWY TAPPAN, NY 10983",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -2050,7 +2066,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"Veh Fire-Inj",
+    "incident_type":"MEDICAL",
     "name":null,
     "phone":null,
     "email":null
@@ -2058,7 +2074,7 @@
   {
     "time_reported":"2025-09-16 03:16:12 PM EST",
     "address":"66 ORCHARD TERR PIERMONT, NY 10968",
-    "incident_type":"MEDICAL",
+    "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
     "email":null
@@ -3409,7 +3425,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3417,7 +3433,7 @@
   },
   {
     "time_reported":"2025-09-10 08:45:42 AM EST",
-    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY 10994",
+    "address":"DOSCHER AV & ROUTE 59 WEST NYACK, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -3977,7 +3993,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -3985,7 +4001,7 @@
   },
   {
     "time_reported":"2025-09-07 04:22:56 PM EST",
-    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10954",
+    "address":"PIP E8E NB - OFF RAMP WEST NYACK, NY 10994",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -5353,7 +5369,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -5361,7 +5377,7 @@
   },
   {
     "time_reported":"2025-09-01 10:30:38 AM EST",
-    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY",
+    "address":"LAFAYETTE AV & HILLCREST RD SUFFERN, NY 10901",
     "incident_type":"Vehicle Fire",
     "name":null,
     "phone":null,
@@ -5825,7 +5841,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -5833,7 +5849,7 @@
   },
   {
     "time_reported":"2025-08-29 06:10:09 PM EST",
-    "address":"HUTTON AV & W ROUTE 59 NANUET, NY",
+    "address":"HUTTON AV & W ROUTE 59 NANUET, NY 10954",
     "incident_type":"Veh Fire-Inj",
     "name":null,
     "phone":null,
@@ -6065,7 +6081,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
+    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -6073,7 +6089,7 @@
   },
   {
     "time_reported":"2025-08-28 06:02:05 PM EST",
-    "address":"80 N COLE AV SPRING VALLEY, NY 10977",
+    "address":"141 MAPLE AV SPRING VALLEY, NY 10977",
     "incident_type":"Alarm Sounding",
     "name":null,
     "phone":null,
@@ -8441,7 +8457,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -8449,7 +8465,7 @@
   },
   {
     "time_reported":"2025-08-17 08:09:57 PM EST",
-    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY",
+    "address":"ROUTE 303 & HILLSIDE LN VALLEY COTTAGE, NY 10989",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -12265,7 +12281,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
+    "address":"289 N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -12273,7 +12289,7 @@
   },
   {
     "time_reported":"2025-07-30 03:55:54 PM EST",
-    "address":"289 N MAIN ST HILLCREST, NY 10977",
+    "address":"W ECKERSON RD & N MAIN ST HILLCREST, NY 10977",
     "incident_type":"Electric Hazard",
     "name":null,
     "phone":null,
@@ -14233,7 +14249,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
@@ -14241,7 +14257,7 @@
   },
   {
     "time_reported":"2025-07-23 11:27:11 AM EST",
-    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY 10901",
+    "address":"MILE RD & HEATHERHILL LN MONTEBELLO, NY",
     "incident_type":"Rescue Call-Inj",
     "name":null,
     "phone":null,
